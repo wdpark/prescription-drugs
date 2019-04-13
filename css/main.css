@@ -226,6 +226,14 @@ p {
   height: auto;
 }
 
+#simulacrum {
+  background: #22252b;
+  padding-top: 100px;
+  min-height: 650px;
+  overflow: hidden;
+  height: auto;
+}
+
 .main1-img {
   position: absolute;
   right: 0;
