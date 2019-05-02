@@ -29,7 +29,7 @@ h3 {
 
 p {
   color: #7e7e7e;
-  font-size: 16px;
+  font-size: 19px;
 }
 
 
@@ -236,13 +236,13 @@ p {
 
 .main1-img {
   position: absolute;
-  right: 0;
+  right: -70px;
 }
 
 
 blockquote {
     border-left: 8px solid #4eacdd;
-    font-size: 16.5px;
+    font-size: 19px;
     color: #7e7e7e;
     font-style: italic;
     margin: 0 0 20px;
@@ -258,8 +258,8 @@ blockquote {
 
 .main2-img {
     left: 0;
-    margin-left: -300px;
-    margin-top: 160px;
+    margin-left: -100px;
+    margin-top: 10px;
     position: absolute;
 }
 
