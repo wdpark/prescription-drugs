@@ -209,6 +209,7 @@ p {
 }
 
 
+
 .header-text {
   padding-top: 175px;
 }
@@ -220,7 +221,7 @@ p {
 
 #main1 {
   background: #f4f4f4;
-  padding-top: 140px;
+  padding-top: 100px;
   min-height: 650px;
   overflow: hidden;
   height: auto;
@@ -237,6 +238,12 @@ p {
 .main1-img {
   position: absolute;
   right: -70px;
+}
+
+.main3-img {
+  position: absolute;
+  right: 70px;
+  top: 110px;
 }
 
 
@@ -259,7 +266,7 @@ blockquote {
 .main2-img {
     left: 0;
     margin-left: -100px;
-    margin-top: 10px;
+    margin-top: -110px;
     position: absolute;
 }
 
